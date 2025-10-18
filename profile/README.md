@@ -1,0 +1,2 @@
+This GitHub collates the digitisation [works](https://portal.sds.ox.ac.uk/projects/Digitised_Holle_List/259172) of the Holle List (see Stokhof [1980](http://hdl.handle.net/1885/144430) for the introductory volume). The logo is generated via ChatGPT (see the archived chat and instruction [here](https://chatgpt.com/share/68ed05ca-57e0-8003-836e-25bcf92e5455)).
+
