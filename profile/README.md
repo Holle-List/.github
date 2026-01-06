@@ -6,9 +6,11 @@ This GitHub page collates the digitisation [works](https://portal.sds.ox.ac.uk/p
 
 - Digitalising the whole Holle List volumes via the Tesseract software:
 
-    - We are done digitalising the entire volumes of vols.: 2, 3, 4, 5, 6, 7, 8, 10/3 (for [the Barrier Islands Languages](https://github.com/complexico/holle-list-barrier-islands), off the west coast of Sumatra), and 11.
+    - We are done digitalising the entire volumes of vols.: 2, 3, 4, 5, 6, 7, 8, 10/2, 10/3 (for [the Barrier Islands Languages](https://github.com/complexico/holle-list-barrier-islands), off the west coast of Sumatra), and 11.
+
+        - Some of the contents in vol. 10/2 were digitalised by students as part of Lexicology and Lexicography subject introducing them with WeSay (Cohort 2024) and Lexonomy (Cohort 2025)
     
-    - We are left to digitalise several languages in the Sumatra area
+    - We are left to digitalise several languages in the Sumatra area (vol. 9 for Northern Sumatra and vol. 10/1 for Minang Central Sumatra)
 
 - Proofreading and editing the digitalisation results
 
